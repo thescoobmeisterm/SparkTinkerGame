@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Who's That Robot Part?</title>
+  <desc>A lime robot with a question mark antenna on a forest-green background.</desc>
+  <rect width="1024" height="1024" fill="#263d30"/>
+  <!-- Full-bleed background: iOS supplies the rounded corner mask. -->
+  <path d="M512 352v-40" fill="none" stroke="#d8f36a" stroke-width="40" stroke-linecap="round"/>
+  <path d="M467 193c0-62 105-63 105-2 0 38-60 43-60 79" fill="none" stroke="#d8f36a" stroke-width="37" stroke-linecap="round"/>
+  <rect x="133" y="460" width="92" height="184" rx="36" fill="#9db74e"/>
+  <rect x="799" y="460" width="92" height="184" rx="36" fill="#9db74e"/>
+  <rect x="207" y="351" width="610" height="433" rx="119" fill="#172b20"/>
+  <rect x="207" y="328" width="610" height="433" rx="119" fill="#d8f36a"/>
+  <rect x="268" y="413" width="488" height="209" rx="72" fill="#263d30"/>
+  <circle cx="389" cy="517" r="47" fill="#f6f4ed"/>
+  <circle cx="635" cy="517" r="47" fill="#f6f4ed"/>
+  <path d="M438 685h148" stroke="#263d30" stroke-width="29" stroke-linecap="round"/>
+  <path d="M371 826h282" stroke="#9db74e" stroke-width="24" stroke-linecap="round"/>
+</svg>
